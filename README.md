@@ -4,6 +4,8 @@ O **ChefAI** é um agente de inteligência artificial especializado em culinári
 
 Desenvolvido com **Python**, **Streamlit** e **Groq**, o projeto demonstra como criar um agente de IA funcional com interface limpa, responsiva e fácil de usar.
 
+> ⚠️ **Importante:** Para executar este projeto, você precisa de uma **Groq API Key**, necessária para que o agente consiga gerar respostas.
+
 ---
 
 ## ✨ Funcionalidades
@@ -39,6 +41,7 @@ Crie um arquivo .env na raiz do projeto:
 ```bash
 GROQ_API_KEY=sua_chave_aqui
 ```
+Você pode obter sua chave gratuitamente no site da Groq.
 
 Execute o projeto:
 
